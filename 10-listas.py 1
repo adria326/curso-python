@@ -1,0 +1,5 @@
+lenguajes = ["python", "ruby", "php", "javascript", "java"]
+lenguajes[1] = "go"
+print(lenguajes[-3])
+print(lenguajes[1:3])
+print(lenguajes[1:])
